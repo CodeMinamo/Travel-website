@@ -1,5 +1,5 @@
 # Responsive Travel Website 🌊
-## [Watch it Live](https://youtu.be/YzRDHxbw1RU)
+## [Watch it Live](https://codeminamo.github.io/Travel-website/)
 ###  Responsive Travel Website 🌊
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
